@@ -1,3 +1,10 @@
+#-*- coding: utf-8 -*-
+#------------------------------------------------------
+#
+#      BY: UNDEADSEC from BRAZIL :)
+#      Visit: https://www.youtube.com/c/UndeadSec
+#      Github: https://github.com/UndeadSec/EvilURL
+#------------------------------------------------------
 from subprocess import call
 from time import sleep
 from os import geteuid
