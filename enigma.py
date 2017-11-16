@@ -1,5 +1,10 @@
 from subprocess import call
 from time import sleep
+from os import geteuid
+from sys import exit
+
+if not geteuid() == 0:
+    exit('Enigma must be run as root')
 RED, WHITE, YELLOW, CIANO, GREEN, END = '\033[91m', '\33[46m', '\33[93m', '\33[36m', '\033[1;32m', '\033[0m'
 def message():
     call('clear', shell=True)
