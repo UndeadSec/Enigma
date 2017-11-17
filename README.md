@@ -49,6 +49,7 @@ Taken from [LICENSE](LICENSE).
 * python 2.7 for enigma.py
 * python 3.x for enigma.py
 * metasploit
+* msfvenom
 
 
 ## TESTED ON
