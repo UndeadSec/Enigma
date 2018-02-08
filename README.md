@@ -30,7 +30,7 @@ python3 enigma3.py
 ```
 ## DISCLAIMER
 <p align="center">
-  JUST USE TO EDUCATIONAL PURPOSES
+   TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 </p>
 
 The use of the Enigma is COMPLETE RESPONSIBILITY of the END-USER. Developer assume NO liability and are NOT responsible for any misuse or damage caused by this program.
