@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/UndeadSec/Enigma/master/enigma.png">
+  <img src="https://raw.githubusercontent.com/UndeadSec/Enigma/master/Images/enigma.png">
 </p>
 
 <h1 align="center">Enigma</h1>
@@ -10,7 +10,7 @@
 ## VIDEO DEMO
 <p align="center">
 <a href="https://youtu.be/ZszpJAF7Ti8">
-  <img src="https://raw.githubusercontent.com/UndeadSec/Enigma/master/video.png" />
+  <img src="https://raw.githubusercontent.com/UndeadSec/Enigma/master/Images/video.png" />
 </a></p>
 
 ### CLONE
@@ -57,9 +57,9 @@ Taken from [LICENSE](LICENSE).
 ## Donation
 If you liked our work and want to support us, you can donate :D
 
-<img src="https://raw.githubusercontent.com/UndeadSec/Enigma/master/donation.png"></img>
+<img src="https://raw.githubusercontent.com/UndeadSec/Enigma/master/Images/donation.png"></img>
 
 Bitcoin Address: 1EmJ5KiAKzpyqGGHopAq9qukrVPS47T9bA
 
 ### SCREENSHOT
-![Shot](https://github.com/UndeadSec/Enigma/blob/master/sc.png)
+![Shot](https://github.com/UndeadSec/Enigma/blob/master/Images/sc.png)
