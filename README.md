@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/UndeadSec/Enigma/master/Images/enigma.png">
-</p>
-
 <h1 align="center">Enigma</h1>
 <p align="center">
   Multiplatform payload dropper.
